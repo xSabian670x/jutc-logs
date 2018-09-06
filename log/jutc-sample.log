@@ -1,0 +1,5 @@
+2017-01-24 11:32:35,035 TRACE lab3.jutc.samples.MainSample [main] lab3.jutc.samples.MainSample initialized
+2017-01-24 11:32:35,035 ERROR lab3.jutc.samples.MainSample [main] We caught the exception we included
+java.lang.ClassNotFoundException: null
+	at lab3.jutc.samples.MainSample.<init>(MainSample.java:25) [bin/:?]
+	at lab3.jutc.App.main(App.java:21) [bin/:?]
